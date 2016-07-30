@@ -1,0 +1,27 @@
+{
+  "name": "default",
+  "version": "0.0.0",
+  "homepage": "https://github.com/juliosgarbi/boiler",
+  "authors": [
+    "Matheus Portillo <matheus@ferreri.co>"
+  ],
+  "description": "boilerplate",
+  "main": "src/index.html",
+  "keywords": [
+    "boiler"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {},
+  "dependencies": {
+    "angular": "^1.5.7",
+    "angular-ui-router": "^0.3.1",
+    "normalize-scss": "normalize.scss#^5.0.3"
+  }
+}
